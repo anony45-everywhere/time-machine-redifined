@@ -1,5 +1,4 @@
-# time-machine-redifined
-
+# Gravity Anchor-Based Time Machine: A Novel Approach to Time Dilation Without Relativistic Mass Increase
 **Title:** Gravity Anchor-Based Time Machine: A Novel Approach to Time Dilation Without Relativistic Mass Increase
 
 **Author:** Likhith Sai Seemala
